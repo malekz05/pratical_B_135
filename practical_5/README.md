@@ -4,7 +4,8 @@
 
 | Name | Enrollment Number | Practical Set |
 |------|-------------------|---------------|
-| xyz | 202504104610135    |   Set B       |
+| Zaid | 202504104610135    |   Set B       |
+| Himanshu | 202504104610136 |   Set A       |
 
 ---
 
@@ -47,4 +48,5 @@ This project demonstrates:
 
 - Each practical task is organized in separate files.
 - `requirements.txt` contains all dependencies.
+
 - README includes documentation and images.
