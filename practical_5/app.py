@@ -3,7 +3,7 @@
 def student_info():
     print("Cloud Computing with DevOps Practical")
     print("--------------------------------------")
-    print("Name: xyz")
+    print("Name: zaid")
     print("Enrollment Number: 202504104610135")
     print("Practical Set: B")
     print("--------------------------------------")
@@ -19,4 +19,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
